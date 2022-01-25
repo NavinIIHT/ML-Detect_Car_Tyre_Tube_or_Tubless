@@ -1,5 +1,0 @@
-marshmallow
-pip-chill
-pydantic
-strictyaml
-tox
